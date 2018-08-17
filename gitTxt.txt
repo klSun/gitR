@@ -1,2 +1,2 @@
 git is a version control system good.  
-git is free software good.
+git is free software .
